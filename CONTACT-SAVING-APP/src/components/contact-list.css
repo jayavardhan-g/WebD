@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.list{
+    margin:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left:20px;
+    padding-right: 50px;
+    height:75px;
+    border-bottom: 1px solid grey;
+}
+button{
+    width: 100px;
+}
+.fas{
+    cursor: pointer;
+}

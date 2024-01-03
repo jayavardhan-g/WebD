@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Doppio+One&family=Yuji+Mai&display=swap');
+*{
+    font-family: 'Doppio One', sans-serif;
+    font-family: 'Yuji Mai', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.add-contact{
+   
+    height: 60px;
+}
+.input{
+    margin-top:4px;
+    font-size: 1.5rem;
+}
+.name{
+    height: 60px;
+    padding-left: 3px;
+   
+}
+.name1{
+    display: flex;
+   align-items: center;
+}
+.email{
+   display: flex;
+   align-items: center;
+   margin:3px;
+  
+}
+
+.size{
+    height: 40px;
+    width:200px;
+    font-size: 1.6rem;
+}
+button{
+    margin:3px;
+    width:70px;
+    height: 40px;
+}
+.size1{
+    margin-left:60px;
+}
+.size2{
+    margin-left:60px;
+    
+}
